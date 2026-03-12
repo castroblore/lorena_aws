@@ -1,0 +1,57 @@
+IaaS (Infrastructure as a Service)
+Es cuando la nube te presta la infraestructura básica, como servidores, almacenamiento y redes. Tú instalas el sistema operativo y las aplicaciones.
+Ejemplo: Amazon EC2.
+
+PaaS (Platform as a Service)
+La nube te da una plataforma lista para desarrollar aplicaciones. No tienes que preocuparte por servidores o sistemas operativos.
+
+SaaS (Software as a Service)
+Son aplicaciones listas para usar desde internet. Solo usas el software sin instalar nada.
+Ejemplo: Gmail, Google Drive.
+
+
+ventajas de la informática en la nube
+
+* No necesitas comprar servidores físicos.
+* Pagas solo por lo que usas.
+* Puedes aumentar o reducir recursos fácilmente.
+* Acceso desde cualquier lugar con internet.
+* Alta disponibilidad y respaldo de datos.
+* Actualizaciones automáticas de infraestructura.
+
+¿Qué es una región de AWS y una zona de disponibilidad?
+
+* Región de AWS:
+Es una ubicación geográfica donde AWS tiene centros de datos.
+Ejemplo: Estados Unidos, Brasil, Europa.
+
+* Zona de disponibilidad (AZ):
+Son centros de datos dentro de una región, separados entre sí para evitar fallas.
+
+4. Regiones de AWS (principales)
+Norte de Virginia (us-east-1)
+Ohio (us-east-2)
+Norte de California (us-west-1)
+Oregón (us-west-2)
+São Paulo (sa-east-1)
+Irlanda (eu-west-1)
+Londres (eu-west-2)
+Frankfurt (eu-central-1)
+París (eu-west-3)
+Tokio (ap-northeast-1)
+Seúl (ap-northeast-2)
+Singapur (ap-southeast-1)
+Sídney (ap-southeast-2)
+Mumbai (ap-south-1)
+
+
+5. Categorías de servicios de AWS
+Los servicios se agrupan en categorías como:
+Cómputo
+Almacenamiento
+Bases de datos
+Redes
+Seguridad
+Analítica
+Machine Learning
+Herramientas de desarrollo
